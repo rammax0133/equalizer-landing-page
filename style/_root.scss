@@ -1,0 +1,22 @@
+:root {
+    --clr-black: #191826;
+    --clr-white: #FCFAF9;
+
+    --clr-accent-1: #66E2DC;
+    --clr-accent-2: #FFB964;
+    --clr-accent-3: #FA7453;
+
+    --ff-primary: 'IBM Plex Sans' ,  Sans-serif;
+
+    
+    --font-size-body: clamp(1rem, 0.37vw + 0.92rem, 1.25rem);
+    --font-size-lg: clamp(2rem, 0.73vw + 1.84rem, 2.5rem);
+    --font-size-xl: clamp(2.5rem, 4.4vw + 1.54rem, 5.5rem);
+    
+    --fw-thin: 200;
+    --fw-regular: 400;
+    --fw-semibold: 600;
+    --fw-bold: 700;
+
+
+}
